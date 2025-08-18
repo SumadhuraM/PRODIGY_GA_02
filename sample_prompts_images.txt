@@ -1,0 +1,55 @@
+# Sample Prompts for Stable Diffusion Image Generation
+# Task 2: Image Generation with Stable Diffusion
+
+## Nature & Landscapes
+A serene mountain landscape with a crystal clear lake reflecting the sunset, ultra realistic, 8k resolution
+A mystical forest with glowing mushrooms and fireflies, fantasy art style, magical atmosphere
+A peaceful Japanese garden with cherry blossoms in full bloom, traditional architecture, zen mood
+A dramatic waterfall cascading down moss-covered rocks, surrounded by lush green vegetation, cinematic lighting
+
+## Fantasy & Sci-Fi
+A majestic dragon soaring through stormy clouds, detailed scales, fantasy illustration
+A futuristic cyberpunk city with neon lights and flying cars, blade runner aesthetic, night scene
+A steampunk airship flying over Victorian London, brass gears and copper pipes, detailed mechanical design
+An underwater city with bioluminescent creatures and coral structures, ethereal blue lighting, fantasy underwater world
+
+## Characters & Portraits
+A beautiful elven princess with long silver hair and glowing blue eyes, fantasy portrait, intricate jewelry
+A cyberpunk samurai in high-tech armor, neon katana, rain-soaked alley, dramatic lighting
+A wise wizard with a long white beard and mystical staff, ancient library background, magical aura
+A cute robot playing with a fluffy cat in a sunny garden, heartwarming scene, Pixar style
+
+## Art Styles
+A Van Gogh style starry night over a quiet village, swirling brushstrokes, post-impressionist
+A Studio Ghibli style scene of children flying on a magical broomstick, whimsical and dreamy
+A watercolor painting of a cozy cottage in autumn, warm orange and red leaves, soft edges
+An oil painting of a dramatic seascape with crashing waves, classical realism, detailed textures
+
+## Objects & Still Life
+A vintage typewriter on an old wooden desk with warm lamplight, nostalgic atmosphere, photorealistic
+A crystal ball revealing a mystical landscape inside, magical artifacts, fantasy still life
+A steaming cup of coffee with latte art on a rainy window sill, cozy mood, macro photography
+An antique compass on an old treasure map, golden hour lighting, adventure theme
+
+## Architecture
+A Gothic cathedral with intricate stained glass windows, dramatic lighting through colored glass
+A modern glass skyscraper reflecting the sunset, architectural photography, sleek design
+A cozy log cabin in a snowy forest with warm light glowing from windows, winter wonderland
+An ancient temple overgrown with jungle vines, mysterious ruins, Indiana Jones style
+
+## Animals & Creatures
+A majestic white wolf in a snowy forest, piercing blue eyes, wildlife photography
+A colorful parrot perched on tropical flowers, vibrant colors, nature photography
+A mythical phoenix rising from ashes, golden flames, fantasy creature design
+A gentle giant panda eating bamboo in a misty bamboo forest, peaceful wildlife scene
+
+## Abstract & Artistic
+An abstract composition of flowing colors and geometric shapes, modern art, vibrant palette
+A surreal landscape with floating islands and impossible architecture, dreamlike quality
+A fractal pattern with infinite detail, mathematical art, psychedelic colors
+A minimalist design with clean lines and bold colors, contemporary art style
+
+## Negative Prompt Examples (for use with --negative-prompt)
+blurry, low quality, distorted, deformed, ugly, oversaturated, extra limbs, poorly drawn
+cartoon, anime, illustration, painting, sketch, low resolution, artifacts, watermark, text
+nsfw, nudity, violence, gore, horror, scary, dark, evil, demonic
