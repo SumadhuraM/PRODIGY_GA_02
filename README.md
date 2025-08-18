@@ -1,4 +1,4 @@
-# 🎨Stable Diffusion Image Generation - Task2
+# 🎨Stable Diffusion Image Generation 
 
 Generate stunning AI images with Stable Diffusion using multiple interfaces: CLI, enhanced CLI, and interactive web demo.
 
