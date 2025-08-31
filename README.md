@@ -1,8 +1,8 @@
-# 🎨 Stable Diffusion Image Generation 
+#  Stable Diffusion Image Generation 
 
 Generate stunning AI images with Stable Diffusion using multiple interfaces: CLI, enhanced CLI, and interactive web demo.
 
-## ✨ Features
+##  Features
 
 - **High-quality AI image generation** with Stable Diffusion
 - **Multiple generation modes**: Basic CLI, Enhanced CLI, Interactive Web
@@ -11,7 +11,7 @@ Generate stunning AI images with Stable Diffusion using multiple interfaces: CLI
 - **Batch generation** capabilities
 - **Metadata saving** for reproducibility
 
-## 📂 Task 2 Files
+##  Task 2 Files
 
 - `stable_diffusion_cli.py` – Basic CLI for image generation
 - `stable_diffusion_enhanced.py` – Advanced CLI with full parameters
@@ -20,7 +20,7 @@ Generate stunning AI images with Stable Diffusion using multiple interfaces: CLI
 - `sample_prompts_images.txt` – Sample prompts for image generation
 - `requirements.txt` – Updated with Stable Diffusion dependencies
 
-## ⚡ Setup & Usage
+##  Setup & Usage
 
 ### Install dependencies:
 ```bash
@@ -42,7 +42,7 @@ python stable_diffusion_enhanced.py "A cyberpunk city" --num-images 2 --steps 30
 streamlit run stable_diffusion_interactive_demo.py
 ```
 
-## 🎯 Available Parameters
+##  Available Parameters
 
 ### Basic CLI
 - `prompt`: Text description of desired image
@@ -64,7 +64,7 @@ streamlit run stable_diffusion_interactive_demo.py
 - Generation history tracking
 - GPU/CPU device info
 
-## 🚀 Quick Start Examples
+##  Quick Start Examples
 
 ```bash
 # Generate a single image
@@ -77,7 +77,7 @@ python stable_diffusion_enhanced.py "A futuristic city" --num-images 3 --steps 4
 streamlit run stable_diffusion_interactive_demo.py
 ```
 
-## 📝 Sample Prompts
+##  Sample Prompts
 Check `sample_prompts_images.txt` for ready-to-use prompts covering:
 - Nature & Landscapes
 - Fantasy & Sci-Fi
@@ -87,7 +87,7 @@ Check `sample_prompts_images.txt` for ready-to-use prompts covering:
 - Animals & Creatures
 - Abstract & Artistic
 
-## ⚙️ Technical Features
+##  Technical Features
 - **Memory optimization** with attention slicing
 - **GPU acceleration** when available
 - **Batch processing** capabilities
