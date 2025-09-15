@@ -11,7 +11,7 @@ Generate stunning AI images with Stable Diffusion using multiple interfaces: CLI
 - **Batch generation** capabilities
 - **Metadata saving** for reproducibility
 
-##  Task Files
+##  Project Files
 
 - `stable_diffusion_cli.py` – Basic CLI for image generation
 - `stable_diffusion_enhanced.py` – Advanced CLI with full parameters
